@@ -1,4 +1,4 @@
-# This Or That - a web app to distinguish tricky images!
+# This Or That - A web app to distinguish tricky images!
 
 ## Project setup
 ```
